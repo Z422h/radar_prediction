@@ -1,0 +1,21 @@
+{
+  "analysis_date": "2025-12-02 19:22:32",
+  "image_size": [
+    256,
+    256
+  ],
+  "models_analyzed": [
+    "LSTM-CNN",
+    "ViT"
+  ],
+  "results": {
+    "LSTM-CNN": {
+      "gifs_created": 5,
+      "samples_analyzed": 5
+    },
+    "ViT": {
+      "gifs_created": 5,
+      "samples_analyzed": 5
+    }
+  }
+}

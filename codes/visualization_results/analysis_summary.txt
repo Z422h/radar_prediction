@@ -1,0 +1,56 @@
+======================================================================
+Radar Echo Prediction Model Visualization Analysis Report
+======================================================================
+
+Analysis Time: 2025-12-02 19:22:32
+Image Size: (256, 256)
+Models Analyzed: LSTM-CNN, ViT
+
+Analysis Results:
+----------------------------------------------------------------------
+
+LSTM-CNN:
+  Samples Analyzed: 5
+  GIFs Created: 5
+
+ViT:
+  Samples Analyzed: 5
+  GIFs Created: 5
+
+Output Files:
+----------------------------------------------------------------------
+visualization_results_fixed/
+  analysis_report.json
+  analysis_summary.txt
+  comparisons/
+    LSTM-CNN/
+      sample_13_comparison.png
+      sample_18_comparison.png
+      sample_19_comparison.png
+      sample_2_comparison.png
+      sample_4_comparison.png
+    ViT/
+      sample_13_comparison.png
+      sample_18_comparison.png
+      sample_19_comparison.png
+      sample_2_comparison.png
+      sample_4_comparison.png
+  gifs/
+    LSTM-CNN/
+      sample_13.gif
+      sample_18.gif
+      sample_19.gif
+      sample_2.gif
+      sample_4.gif
+    ViT/
+      sample_13.gif
+      sample_18.gif
+      sample_19.gif
+      sample_2.gif
+      sample_4.gif
+
+Usage Instructions:
+----------------------------------------------------------------------
+1. GIF files are in the gifs/ directory
+2. Static comparison charts are in the comparisons/ directory
+3. Detailed report is in analysis_report.json

@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./codes/model_design"
+    ],
+    "git.ignoreLimitWarning": true
+}
