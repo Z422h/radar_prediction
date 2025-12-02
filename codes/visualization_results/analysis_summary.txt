@@ -2,7 +2,6 @@
 Radar Echo Prediction Model Visualization Analysis Report
 ======================================================================
 
-Analysis Time: 2025-12-02 19:22:32
 Image Size: (256, 256)
 Models Analyzed: LSTM-CNN, ViT
 
